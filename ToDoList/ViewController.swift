@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ToDoList
 //
-//  Created by Стас Гайсин on 31.01.2023.
+//  Created by selawik on 31.01.2023.
 //
 
 import UIKit
